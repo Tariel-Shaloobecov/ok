@@ -1,0 +1,7 @@
+td, table{
+    border: 1px black solid;
+    border-collapse:collapse;
+}
+img{
+    width: 100px;
+}
